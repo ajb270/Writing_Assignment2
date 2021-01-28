@@ -1,6 +1,7 @@
 # Introduction
 ----------------------------------------------
 When you receive a thoughtful or congratulatory bouquet of flowers and you want to keep the looking pretty for as long as possible, but your mom isn't there to help you, what do you do? Below are some tips that can help you accomplish a vase full of flowers your mom would be impressed with.
+
 ![Flowers](flowers.jpg)
 
 # Steps

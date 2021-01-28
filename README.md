@@ -2,14 +2,14 @@
 ----
 
 ## Introduction
-----
+
 When you receive a thoughtful or congratulatory bouquet of flowers and you want to keep them looking pretty for as long as possible, but your mom isn't there to help you, what do you do? Below are some tips that can help you accomplish a vase full of flowers your mom would be impressed with.
 
 
 ![Flowers](flowers.jpg)
 
 ## Steps
---------------------------------------
+
 ### 1. Get a vase that will best fit the flowers.
  - The flowers should stick out several inches from the vase.
  - Stems should not be held tight by the opening of the vase.

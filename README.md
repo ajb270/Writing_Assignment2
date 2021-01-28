@@ -2,6 +2,7 @@
 ----------------------------------------------
 When you receive a thoughtful or congratulatory bouquet of flowers and you want to keep the looking pretty for as long as possible, but your mom isn't there to help you, what do you do? Below are some tips that can help you accomplish a vase full of flowers your mom would be impressed with.
 
+
 ![Flowers](flowers.jpg)
 
 # Steps
@@ -22,5 +23,5 @@ When you receive a thoughtful or congratulatory bouquet of flowers and you want 
  - If the flowers will be too short for the vase if 2 inches are cut off, cut a smaller portion off.
 ### 10. Put flowers into vase.
 ### 11. Place vase on a counter or table.
- Warning: Keep out of reach of pets.
+ **Warning:** Keep out of reach of pets and children.
  
